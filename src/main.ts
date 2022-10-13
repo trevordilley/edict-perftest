@@ -19,6 +19,7 @@ const { insert, rule, fire, retract } = edict<{
 }>();
 
 
+
 // Enact the rules for this session
 rule(
   'Circles with a destination move to destination',
